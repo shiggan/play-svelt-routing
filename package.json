@@ -18,6 +18,6 @@
     "svelte-routing": "1.6.0",
     "tslib": "^2.2.0",
     "typescript": "^4.3.2",
-    "vite": "2.6.1"
+    "vite": "2.9.13"
   }
 }
